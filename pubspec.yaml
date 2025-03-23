@@ -38,6 +38,8 @@ dependencies:
   audioplayers: ^5.2.1 # Use the latest version
   # For playing sounds through the device.
 
+  flutter_reactive_ble: ^5.2.0 # For connecting to the Arduino via BLE
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
